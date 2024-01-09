@@ -6,7 +6,7 @@ Welcome to our GitHub repository which houses the latest resources, tools, and p
 
 We are in the process of organizating this space to host code and documentation in support of our projects. If you have questions, feedback, or ideas, don't hesitate to reach out. 
 
-## Contributing
+### Contributing
 
 If you are interested in being part of this community, please let us know and we can provide access though it's more likely you will want to be involved with individual repositories within this organization.
 
