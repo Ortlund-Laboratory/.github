@@ -6,4 +6,4 @@ We are in the process of organizating this space to host code and documentation 
 
 # Contributing
 
-If you are interested in being part of this community, please let us know
+If you are interested in being part of this community, please let us know and we can provide access though it's more likely you will want to be involved with individual repositories within this organization.
