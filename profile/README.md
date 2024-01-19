@@ -1,6 +1,6 @@
 # Welcome
 
-![Header](./images/github-header-image.png)
+![Header](./images/Ortlund_Lab_Logo.png)
 
 Welcome to our GitHub repository which houses the latest resources, tools, and projects developed by our team. Whether you're a collaborator, contributor, or simply curious about our work, we're delighted to have you here.
 
